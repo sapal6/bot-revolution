@@ -19,7 +19,7 @@ I hope that this collection is informative and I encourage everyone to contribut
 	* [chatbot url](https://openai.com/blog/chatgpt)
     * Repo - No code released
 
-2. Dolly
+2. Dolly -
     * Open source
 	* [Repo](https://github.com/databrickslabs/dolly)
     * [Blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
@@ -29,14 +29,14 @@ I hope that this collection is informative and I encourage everyone to contribut
 	* [Blog](https://t.co/adKUFLeXM0)
     * [Repo](https://t.co/GKkIT4dhoW)
 
-4. Baize-
+4. Baize -
 	* Open source
 	* [Repo](https://t.co/vRreV3f4El)
     * [Paper](https://t.co/dE4TZdPHa6)
 
-5. ChatLLaMA
-	• Open source
-	• [Chatbot url](https://chatllama.baseten.co/)
+5. ChatLLaMA -
+	* Open source
+	* [Chatbot url](https://chatllama.baseten.co/)
     * [Repo](https://github.com/basetenlabs/alpaca-7b-truss)
 
 # Contributions
