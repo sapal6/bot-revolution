@@ -48,6 +48,11 @@ I hope that this collection is informative and I encourage everyone to contribut
    * Open source
    * [Blog](https://cocktailpeanut.github.io/dalai/#/)
    * [Repo](https://github.com/cocktailpeanut/dalai)
+
+8. ColossalChat - 
+   * Open source
+   * [Chatbot url](https://chat.colossalai.org/)
+   * [Repo](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat)
  
 
 # Contributions
