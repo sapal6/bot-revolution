@@ -25,7 +25,7 @@ I hope that this collection is informative and I encourage everyone to contribut
     * [Blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 
 3. Vicuna-13B - 
-    * Open source
+    * Open s ource
 	* [Blog](https://t.co/adKUFLeXM0)
     * [Repo](https://t.co/GKkIT4dhoW)
 
@@ -38,6 +38,17 @@ I hope that this collection is informative and I encourage everyone to contribut
 	* Open source
 	* [Chatbot url](https://chatllama.baseten.co/)
     * [Repo](https://github.com/basetenlabs/alpaca-7b-truss)
+
+6. StabilityLM - 
+    * Open source
+    * [Repo](https://github.com/stability-AI/stableLM/)
+    * [Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+
+7. Huggungchat - 
+    * Open source - based on openassistant model
+    * [Model page](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
+    * [Chatbot url](https://huggingface.co/chat/)
+
 
 # Contributions
 Anyone who is interested in the field of chatbots and conversational AI is welcome to make contribution. If you would like to suggest a new chatbot or research paper to be included in the list, or if you notice any errors or outdated information in the existing content, please feel free to make a pull request to the repository.
